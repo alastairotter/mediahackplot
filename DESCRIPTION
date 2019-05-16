@@ -2,12 +2,7 @@ Package: mediahackplot
 Title: Templates for Media Hack charts
 Version: 0.1
 Authors@R: c(
-    person("Nassos", "Stylianou", , "nassos.stylianou@bbc.co.uk", c("aut", "cre")),
-    person("Clara", "Guibourg", "clara.guibourg@bbc.co.uk", c("aut", "cre")),
-    person("Will", "Dahlgreen", "william.dahlgreen@bbc.co.uk", role = "aut"),
-    person("Robert", "Cuffe", "robert.cuffe@bbc.co.uk", role = "aut"),
-    person("Tom", "Calver", , role = "aut"),
-    person("Ransome", "Mpini", , role = "aut")
+    person("Alastair", "Otter", , "alastair@mediahack.co.za", c("aut", "cre"))
     )
 Description: Helps make charts based on templates. Based on bbplot from the BBC (https://github.com/bbc/bbplot)
 Depends: R (>= 3.3.0)
