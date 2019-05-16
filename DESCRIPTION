@@ -8,9 +8,6 @@ Description: Helps make charts based on templates. Based on bbplot from the BBC 
 Depends: R (>= 3.3.0)
 Imports:
     ggplot2,
-    png,
-    grid,
-    ggpubr,
     dplyr,
     data.table
 License: GPL-2
