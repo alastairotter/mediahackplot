@@ -19,7 +19,7 @@ mediahack_style <- function() {
   plot.title = ggplot2::element_text(family=font,
                             size=28,
                             face="bold",
-                            color="green"),
+                            color="yellow"),
   #This sets the font, size, type and colour of text for the chart's subtitle, as well as setting a margin between the title and the subtitle
   plot.subtitle = ggplot2::element_text(family=font,
                                size=22,
